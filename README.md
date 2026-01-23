@@ -1,0 +1,1 @@
+Part of the training and testing code of Paper "From Generation to Diagnosis: A Synergistic Framework Integrating Frequency-Domain Decomposition Translation and Selective Feature Distillation for Generalizable Medical Imaging Tasks "
