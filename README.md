@@ -1,1 +1,2 @@
-Training and testing code of Paper "Frequency-Consistent Image Translation with Risk-Gated Feature Distillation for Robust Medical Imaging Tasks "
+Training and testing code of paper "Frequency-Consistent Image Translation with Risk-Gated Feature Distillation for Medical Imaging Tasks"
+
