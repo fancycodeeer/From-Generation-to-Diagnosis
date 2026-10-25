@@ -24,7 +24,7 @@ pip install -r requirements.txt
 
 ## 3. Training
 
-The following commands provide one training example for each experiment. Replace dataset and checkpoint paths with the corresponding local paths. Numerical hyperparameters are example settings and should be replaced with the original configurations for exact reproduction of the reported results.
+The following commands provide training example for experiment. Replace dataset and checkpoint paths with the corresponding local paths. 
 
 ### 3.1 FDDT + AFD — Image Translation
 
